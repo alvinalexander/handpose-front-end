@@ -4,7 +4,7 @@ import VideoFrame from './VideoFrame';
 function App() {
   return (
     <div className="App">
-      <h1>Tensorflow object detection</h1>
+      <h1>Handpose</h1>
       <VideoFrame />
     </div>
   );
